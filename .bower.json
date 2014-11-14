@@ -1,0 +1,31 @@
+{
+  "name": "nice Validator",
+  "version": "0.7.3",
+  "homepage": "https://github.com/codeVN/niceValidator",
+  "authors": [
+    "codeVN"
+  ],
+  "description": "Validator",
+  "main": "jquery.validator.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "form",
+    "validate",
+    "validation",
+    "validator"
+  ],
+   "dependencies": {
+        "jquery": ">=1.7.0"
+    },
+    "devDependencies": {
+        "uglify-js": ">= 2.4.8",
+        "stylus": ">= 0.41.3",
+        "jshint": ">=2.3.0"
+    },
+  "license": "MIT",
+  "_source": "git://github.com/jquery/jquery.git",
+  "_target": "~0.7.3",
+  "_originalSource": "nice"
+}
