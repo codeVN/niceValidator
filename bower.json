@@ -16,6 +16,14 @@
     "validation",
     "validator"
   ],
+   "dependencies": {
+        "jquery": ">=1.7.0"
+    },
+    "devDependencies": {
+        "uglify-js": ">= 2.4.8",
+        "stylus": ">= 0.41.3",
+        "jshint": ">=2.3.0"
+    },
   "license": "MIT",
   "private": true
 }
