@@ -1,0 +1,21 @@
+{
+  "name": "nice Validator",
+  "version": "0.7.3",
+  "homepage": "https://github.com/codeVN/niceValidator",
+  "authors": [
+    "codeVN"
+  ],
+  "description": "Validator",
+  "main": "jquery.validator.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "form",
+    "validate",
+    "validation",
+    "validator"
+  ],
+  "license": "MIT",
+  "private": true
+}
