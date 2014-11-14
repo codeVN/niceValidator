@@ -24,5 +24,6 @@
         "stylus": ">= 0.41.3",
         "jshint": ">=2.3.0"
     },
-  "license": "MIT"
+  "license": "MIT",
+  "private": false
 }
